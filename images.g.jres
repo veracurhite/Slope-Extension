@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQKAAoAAAAA8P8PAAAAAABfVfUAAAAA8FX1VQ8AAABf9fVV9QAAAF9V9VX1AAAAX1X1VfUAAABf9fVV9QAAAPBV9VUPAAAAAF9V9QAAAAAA8P8PAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "mySprite"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
